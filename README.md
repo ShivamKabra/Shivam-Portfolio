@@ -1,4 +1,4 @@
-
+theme: minima
 #  Data Science Portfolio
 
 # [Project 1:- Image-Denoising-Using-CNN](https://github.com/ShivamKabra/Image-Denoising-Using-CNN.git)
