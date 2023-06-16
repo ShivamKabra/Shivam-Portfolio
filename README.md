@@ -19,4 +19,4 @@ This project employs deep learning techniques to predict and classify crop disea
 This Machine learning model aims to predict Parkinson's disease amongst individuals based on certain parameters.
 This project utilizes machine learning algorithms to predict Parkinson's disease based on specific parameters. It involves preprocessing the data and applying various algorithms such as SVM, KNN, logistic regression, decision trees, and random forests to build predictive models. The performance of each model is evaluated, and the most accurate model is selected. The project aims to contribute to the early detection and diagnosis of Parkinson's disease, potentially improving patient care and treatment strategies. 
 
-[](https://github.com/ShivamKabra/ShivamKabra-Portfolio/blob/main/parkinson's%20heatmap.png)
+![](https://github.com/ShivamKabra/ShivamKabra-Portfolio/blob/main/parkinson's%20heatmap.png)
