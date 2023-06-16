@@ -24,4 +24,4 @@ This project utilizes machine learning algorithms to predict Parkinson's disease
 # [Project 5:- Real-Estate-Price-predictor](https://github.com/ShivamKabra/Real-Estate-Price-predictor.git)
 This project develops a real estate price prediction model using linear regression and EDA techniques. It involves analyzing the real estate dataset through EDA methods to understand the relationships between property features and prices. A linear regression model is then built and trained on the dataset to predict property prices. The model's performance is evaluated using metrics such as MSE, MAE, and R-squared. 
 
-
+![](https://github.com/ShivamKabra/ShivamKabra-Portfolio/blob/main/real%20estate%20project%20scatter%20plot.png)
