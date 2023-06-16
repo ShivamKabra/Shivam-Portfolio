@@ -1,5 +1,5 @@
-# Shivam Kabra-Portfolio
-Data Science Portfolio
+
+#  Data Science Portfolio
 
 # [Project 1:- Image-Denoising-Using-CNN](https://github.com/ShivamKabra/Image-Denoising-Using-CNN.git)
 I've built a deep-learning model utilizing autoencoders to enhance noisy images by generating clear, noise-free counterparts. 
