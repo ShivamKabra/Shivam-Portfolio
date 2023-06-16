@@ -13,3 +13,9 @@ This project involves the development and implementation of a deep-learning mode
 # [Project 3:- Multiple-Disease-Prediction-in-Plants](https://github.com/ShivamKabra/Multiple-Disease-Prediction-in-Plants.git)
 Designing a CNN model to predict diseases in plants 
 This project employs deep learning techniques to predict and classify crop diseases. The objectives include detecting unhealthy plant leaf regions, analyzing them, and accurately classifying diseases using various features. To enhance accuracy, the project emphasizes training the algorithm on large datasets. The goal is to provide a valuable tool for early disease detection in crops, enabling improved agricultural practices and higher crop yields.
+
+
+# [Project 4:- Parkinson-Disease-detection](https://github.com/ShivamKabra/Parkinson-Disease-detection.git)
+This Machine learning model aims to predict Parkinson's disease amongst individuals based on certain parameters.
+This project utilizes machine learning algorithms to predict Parkinson's disease based on specific parameters. It involves preprocessing the data and applying various algorithms such as SVM, KNN, logistic regression, decision trees, and random forests to build predictive models. The performance of each model is evaluated, and the most accurate model is selected. The project aims to contribute to the early detection and diagnosis of Parkinson's disease, potentially improving patient care and treatment strategies. 
+
